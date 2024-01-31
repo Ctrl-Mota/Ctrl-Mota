@@ -1,7 +1,6 @@
 <h1 align="center">Hi,I'm Lucas Mota</h1>
-<h3 align="center">Mobile developer from Brazil</h3>
+<h3 align="center">FullStack developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ctrl-mota&label=Profile%20views&color=0e75b6&style=flat" alt="ctrl-mota" /> </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ctrl-Mota&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
